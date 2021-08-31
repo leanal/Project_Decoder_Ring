@@ -4,6 +4,10 @@ Decoder Ring is an application that encodes and decodes all kinds of fun message
 
 [Live Demo](https://leanal.github.io/Project_Decoder_Ring/)
 
+*	Designed using complex algorithms.
+*	Wrote unit tests using Mocha and Chai with a test-driven development process.
+*	Built with JavaScript, HTML, and CSS.
+
 ## Caesar Shift
 
 ![caesar](/img/caesar-shift.png?raw=true)
